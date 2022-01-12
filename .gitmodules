@@ -1,0 +1,3 @@
+[submodule "deps/dom7"]
+	path = deps/dom7
+	url = ssh://git@github.com/nolimits4web/dom7.git
